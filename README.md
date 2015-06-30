@@ -1,0 +1,3 @@
+# coursework
+## code snippets from various assignments
+will come back to this later... 
